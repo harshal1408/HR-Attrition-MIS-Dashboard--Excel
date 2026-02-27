@@ -1,3 +1,5 @@
+📊 HR Attrition MIS Dashboard (Excel)
+
 📌 Project Overview
 
 This project presents an interactive HR Attrition MIS Dashboard developed entirely using Microsoft Excel. The dashboard analyzes 15,000+ employee records to identify workforce attrition patterns and support data-driven HR decision-making.

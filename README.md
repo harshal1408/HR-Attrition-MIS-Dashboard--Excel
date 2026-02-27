@@ -59,7 +59,7 @@ Lower job satisfaction levels correlate with higher attrition.
 Certain job roles contribute disproportionately to workforce turnover.
 
 🖥️ Dashboard Preview
-![HR Attrition Dashboard](dashboard_preview.png)
+![HR Attrition Dashboard](Preview.png)
 
 📂 Dataset Details
 
